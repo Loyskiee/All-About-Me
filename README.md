@@ -1,4 +1,3 @@
-# All-About-Me
 
 # 💫 About Me:
 👋 Hi there, I'm Loy an aspiring Web Developer<br><br>I'm currently learning vanilla PHP, and slowly exploring Laravel.<br><br>I'm currently working on projects that uses what I learn throughout the lessons I took.<br><br><br><br>
